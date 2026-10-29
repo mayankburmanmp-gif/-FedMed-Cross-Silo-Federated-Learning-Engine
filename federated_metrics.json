@@ -1,0 +1,8 @@
+[
+  {
+    "round": 1,
+    "train_loss": null,
+    "fit_clients": 0,
+    "fit_failures": 3
+  }
+]
