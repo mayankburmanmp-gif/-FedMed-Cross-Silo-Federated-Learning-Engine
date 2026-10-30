@@ -1,0 +1,6 @@
+data/
+outputs/
+certs/*.key
+certs/*.pem
+certs/*.crt
+__pycache__/
